@@ -17,6 +17,12 @@ This repository contains five shell scripts developed for the Open Source Audit 
 4. **script4.sh**: Scans log files for specific keywords like "ERROR".
 5. **script5.sh**: Generates a personalized open-source manifesto based on user input.
 
+##Dependencies
+1. **FFmpeg**: Uses libavcodec for decoding and playing almost every video format (MP4, MKV, AVI, etc.).
+2. **Qt Framework**: Used for developing the GUI components like windows, buttons, and sliders.
+3. **Lua**: A scripting language used to add extensions like subtitle finders or movie info tools.
+4. **ALSA/PulseAudio**: Sound architecture libraries used to communicate with the system audio hardware.
+
 ## Instructions to Run
 To execute these scripts on a Linux system, follow these steps:
 1. Open the terminal.
